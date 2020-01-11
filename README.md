@@ -4,7 +4,6 @@ _Google Code-In 2019:_
 In this GCI Task by Fedora Project, we were tasked to create a very simple program that returns the number of divisors a number has in a given range.
 
 Examples:
-
 1. input: 5, output: 2
 2. input: 10, output: 4
 
