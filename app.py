@@ -7,7 +7,8 @@ try:
             for i in rng:
                 if inp % i == 0:
                     dNums.append(1)    
-            print(len(dNums))
+            out = len(dNums)
+            print(str(inp)+ " is divisible by " + str(out) + " numbers")
         else:
             print(str(inp) + " is not in range, try a different number")
 
